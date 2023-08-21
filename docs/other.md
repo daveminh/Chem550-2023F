@@ -6,9 +6,14 @@ permalink: /other/
 
 # Group Work and Academic Honesty
 
-You are allowed and encouraged to help each other on all the assignments. Indeed, you must work in a group for the final project, presentation, and report. However, you should prepare your own unique ethics discussion summary, biological target presentation, and biological target report.
+Group work is allowed and encouraged for all homework and exercises. The final project should be completed collaboratively. The midterms must be completed individually. They are open book and open note. Seating may be assigned during these assessments.
 
-Quizzes must be completed individually. Seating may be assigned during quizzes. Cheating on a quiz will lead to failing the quiz. Students are expected to adhere to the [IIT Code of Academic Honesty](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-academic-honesty). All violations of academic integrity will be reported to academichonesty@iit.edu.
+The use of Generative AI (e.g. ChatGPT) is permitted. Results from generative AI must be carefully checked for “hallucinations” - fictional information including fabricated citations. If a Generative AI tool is used for an assignment, students should submit prompts and generated raw text as an appendix with highlights and/or explanations showing differences from the final submitted document. Fabricated citations will lead to a failing grade for the assignment.
+
+Students are expected to adhere to the [IIT Code of Academic Honesty](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-academic-honesty). 
+
+Cheating on the midterms or plagiarism in the final report will lead to reduction of one letter grade in the course. All violations of academic integrity will be reported to the Dean of Academic Discipline (DDAD).
+
 
 # Disabilities
 

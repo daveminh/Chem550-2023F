@@ -3,76 +3,60 @@ layout: default
 title: About
 ---
 
-<center>
-<img src="{{ "/_images/flyer.jpg" | prepend: site.baseurl }}" valign="middle">
-</center>
-
 # Course Description
 
-A project-based introduction to computer-aided drug design tools and the principles behind them. Structural alignment and homology modeling. Molecular docking and molecular mechanics force fields for binding enthalpies. Continuum dielectric models of electrostatics and solvation. The Boltzmann distribution and alchemical binding free energy calculations. Quantitative structure property relationships. Business, legal, and ethical considerations of drug development.
+An overview of quantum chemistry ranging from foundational postulates and analytical systems to approximation methods and practical molecular modeling calculations. Postulates of quantum mechanics and applications to model systems relevant to chemistry including the particle in a box, harmonic oscillator, rigid rotor, and hydrogen atom. Approximation methods based on perturbation theory and the variational principle. Principles of computational techniques including basis sets and the Hartree-Fock method. Molecular modeling calculations including geometry optimization, electron density, electrostatic potential, and spectroscopy predictions.
+
+# Text
+* Molecular Quantum Mechanics, 5th edition (ISBN: 978-0199541423, Oxford University Press, 2010) by Peter W. Atkins and Ronald S. Friedman. http://global.oup.com/uk/orc/chemistry/mqm5e/.
+* Recommended: Quantum Chemistry, 2nd edition (ISBN: 978-1891389504, University Science Books, 2007) by Donald A. McQuarrie.
 
 # Learning Objectives
 
 The goals of this course are that you will be able to:
 
-* Use Google Colab to run python computer code and to annotate results.
-* Navigate directories, organize files, and execute programs on a command-line terminal.
-* Recall the main types of biological macromolecules, identify their monomers, and describe their levels of structure.
-* Describe the types of forces that maintain the structure of biological macromolecules and stabilize their interactions with small organic molecules.
-* Visualize molecular structures with different styles. Compare the advantages and disadvantages of several styles.
-* Align coordinates of protein structures with different amino acid sequences.
-* Summarize the principles behind the main methods used to determine the structures of biological macromolecules. Compare their relative benefits and drawbacks.
-* Predict protein structure based on the sequence of amino acids. Express confidence in the quality of a structure prediction.
-* Analyze the prospects of a biological macromolecule (usually a protein) as a target for ligand design, from a community, scientific, and business perspective.
-* Analyze an ethical issue related to pharmaceuticals.
-* Predict the pKa’s of titratable amino acids on a protein and protonation at a given pH. Summarize the qualitative relationship between electrostatic potential and pKa.
-* Compute and visualize the electrostatic potential of a protein. Compare the advantages and disadvantages of several representations.
-* Perform a molecular docking calculation and visualize the results. Explain the limitations of molecular docking.
-* Summarize the purpose of a molecular mechanics force field. Identify the terms in the molecular mechanics force field.
-* Set up and perform a quantum mechanics/molecular mechanics simulation. Explain the concept of regions related to a QM/MM calculation. Compare and contrast QM/MM with molecular mechanics.
-* Set up and perform a molecular dynamics simulation. Explain the key objectives of molecular simulation. Recall the purpose of key algorithms in molecular dynamics.
-* Perform and interpret basic analyses of molecular dynamics simulations.
-* Perform a binding free energy calculation. Explain key concepts related to binding free energy calculations. Compare and contrast molecular docking and binding free energy calculations.
-* Develop a model for a quantitative structure-property relationship. Describe its domain of applicability.
-* Propose and perform a rational series of calculations to explain or make predictions about a biological macromolecule. Manage and/or contribute to a team to complete the project.
-* Present a polished scientific seminar reviewing a research area or describing new results.
-* Present a scientific research poster.
-* Write a coherent report meeting the standards of a peer-reviewed article in the scientific journal.
+* Define operators and apply them to functions
+* Evaluate commutators
+* Write mathematical expressions in Dirac Bra-Ket notation
+* Recall and explain the postulates of quantum mechanics
+* Evaluate expectations for given wave functions
+* Express time derivatives of expectation values
+* Use the general uncertainty principle to evaluate limits on the simultaneous specification of a pair of quantities
+* Explain quantum tunneling
+* Obtain and interpret solutions of the Schrodinger equation for tractable systems including the particle in a box, harmonic oscillator, rigid rotor, and hydrogen atom
+* Describe how analytical models help interpret various experimental spectra
+* Use perturbation theory to extend the models to more realistic situations
+* Describe variation theory and the use of basis sets
+* Use Google Colab to run python computer code and to annotate results
+* Perform and interpret electronic structure calculations (in gas phase and implicit solvent) for
+  * geometry optimization
+  * electron density and electrostatic potential
+  * thermochemistry
+  * spectroscopy - infrared, UV-Vis, and NMR chemical shift
+  * transition states
 
 # Prerequisite Knowledge
 
-Organic chemistry (CHEM 237) is required. The following are helpful but not required: the Computer Science Requirement (CS 105/110/115), Introductory Biochemistry (BIOL 401), Molecular Biophysics (PHYS 410), and Physical Chemistry (CHEM 343 & CHEM 344).
+The Computer Science Requirement (CS 105/110/115), differential equations (MATH 252), and introductory quantum mechanics (CHEM 344).
 
-# iCourse Pilot
-
-Chem 456 has been approved as iCourse. The iCourse pilot program allows for a project-based class to take the place of the IPRO graduation requirement. As the program is in the pilot stage, the procedure for obtaining IPRO credit is not automated.
-
-Students should submit requests for IPRO credits through a petition in Degreeworks. On a student's Degreeworks page, they need to click on the three-dot icon on the top right-hand side of the page. They will see "Petitions" in the drop-down menu and click on "Add a new petition". The petition will go into a queue for UGAA to review.
+Chemistry 454 / 550 is intended for beginning graduate students and advanced undergraduates who have already taken an undergraduate-level quantum chemistry course. A greater breadth and depth of understanding will be expected than for students taking quantum chemistry for the first time.
 
 # Class Format
 
-The class format will be hybrid synchronous. In addition to being in person, class session will be streamed live and also recorded on Zoom.
+The class format will be hybrid synchronous. In addition to being in person, most class sessions will be streamed live and also recorded on Zoom.
 
-Classes will include lectures, exercises, presentations, a discussion, and quizzes.
+Classes will include lectures, exercises, presentations, and examinations.
 
-Feel free to raise your hand and ask questions at any time during lecture. Chances are that if you have a question, somebody else will have the same one. At times, I will also ask you questions.
+Feel free to raise your hand and ask questions at any time during lecture. Chances are that if you have a question, somebody else will have the same one. At times, I will also ask you questions. If you answer them at least partially correctly, you will earn participation points that count towards your grade.
 
-Most exercises will use Google Colab, which allows you to run computer code, view figures, annotate your results, and save data onto Google Drive, all within a web browser. The exercises run on the classroom computers and will mostly likely work on your personal computer. If you do not complete a exercise during class, you are expected to finish it for homework. For some longer calculations later in the semester, you will use ACCESS supercomputing resources.
+Most exercises will use Google Colab, which allows you to run computer code, view figures, annotate your results, and save data onto Google Drive, all within a web browser. The exercises run on the classroom computers and will mostly likely work on your personal computer. If you do not complete a exercise during class, you are expected to finish it for homework. If more extensive computing resources are required for your final project, I recommend ACCESS-CI supercomputing resources and can point you to how to obtain access to them.
 
 Some class sessions will feature student presentations about projects. Presentations should make use of prepared slides. You should upload the slides as Powerpoint, Keynote, or PDF document to a folder on Google Drive before class and control them using my computer. Using my computer will make transitions between presenters more seamless. Presenters are expected to be able to present simultaneously in a classroom and via Zoom videoconference. Attendees are expected to be active participants by asking questions and contributing ideas. Both presenters and attendees may use extemporaneous drawings on whiteboards to illustrate thoughts as necessary. Presentations will be recorded on Zoom for members of the class to review.
 
-There will be an ethics discussion.
-
-Quizzes should be completed within the allotted time, 30 minutes.
+Examinations will emphasize the material covered in class. They will be open book and open note. I only ask that you do not communicate with each another during these assessments. They should be completed within the allotted time, 75 minutes.
 
 # Absences
 
-Attendance at lectures and exercises is highly recommended but not required. If you need to miss them for any reason, you should watch the lecture recording online, complete any exercises, and contact me with specific questions.
+Attendance at lectures is highly recommended and required to earn participation points (see “Grading” below). If you need to miss a lecture for any reason, you should watch the recording online. When I ask questions to the class, try to pause the recording and answer them yourself before moving ahead to the answer. You may have a number of unexcused absences from lectures without directly affecting your grade. However, I strongly discourage you from habitually skipping class. Students who do so often do not pass and rarely do well.
 
-If you need miss a presentation, discussion, or quiz, you should be excused. To be excused for illness or quarantine, you should contact student affairs. They will evaluate the situation and provide me with a recommendation about accommodating your circumstance. To be excused for sports, you should provide me with a note from your coach. If you are excused, we will discuss a way that you can make up for the absence.
-
-# Accounts
-
-You should use your IIT Google account to run Google Colab notebooks and store data. If you have and use a personal Google account, you may run out of disk space.
-
-Later in the semester, you will use ACCESS supercomputers. As ACCESS is not starting until September 1 (it is the successor of XSEDE), information about using the resource will be provided at a later time.
+If you need miss a midterm, you should be excused. To be excused for illness or quarantine, you should contact student affairs. They will evaluate the situation and provide me with a recommendation about accommodating your circumstance. To be excused for sports, you should provide me with a note from your coach. If you are excused, we will discuss a way that you can make up for the absence.

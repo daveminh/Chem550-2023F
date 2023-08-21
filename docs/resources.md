@@ -8,12 +8,9 @@ Materials from this class were adapted from previous versions of the class and o
 
 # History
 
-* In Spring 2020, I taught [Chem 456](https://github.com/daveminh/Chem456-2020S) for the first time. Most of the examples were designed to be run in a computer lab.
-* In Summer 2021, I organized [An International Workshop in Modeling Biological Macromolecules](https://ccbatiit.github.io/modelingworkshop2021/index.html) and then ran a small session of Chem 456. Most examples were accessible through a virtual machine.
-* In Spring 2022, I organized [another version of the workshop](https://ccbatiit.github.io/modelingworkshop/index.html), this time held in person in Baranquilla, Colombia. Lectures were simultaneously translated into Spanish! Examples were migrated to [Google Colab](https://colab.research.google.com/), allowing easy access from computer with an internet connection.
+* I taught Chem 550 in Fall of 2013, 2014, and 2015. The theoretical material is very similar to these previous classes.
+* I taught Chem 456 in Spring 2020, Summer 2021, and [Fall 2022](https://daveminh.github.io/Chem456-2022F/). Over these classes, I developed the structure that I use in this class.
 
 # Sources
 
-In the Spring 2022 workshop, exercises were adapted from
-* [IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile, and
-* [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd)
+* In Summer 2022, I took [Computational Chemistry for Chemistry Educators](http://www.computationalscience.org/ccce/about/sessions/sessions.php). Exercises in this class are adapted from labs in this program.
