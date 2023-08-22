@@ -14,7 +14,7 @@ Office phone: (312) 567-3411 \\
 
 # Class Hours
 
-Monday and Wednesday, 11:25am-12:40pm, Stuart Building 112F
+Tuesday and Thursday, 1:50pm-3:05pm, Stuart Building 112F
 
 # Office Hours
 
