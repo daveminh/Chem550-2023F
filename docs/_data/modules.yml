@@ -1,16 +1,16 @@
 - day: Tu
   date: 8/22
-  title: "Introduction and syllabus. Operators."
+  title: "Introduction and syllabus. Operators. Bra-ket notation."
   basename: 08-22-introduction
 
 - day: Th
   date: 8/24
-  title: "Bra-ket notation. Postulates."
+  title: "Postulates. Uncertainty."
   basename: 08-24-postulates
 
 - day: Tu
   date: 8/29
-  title: "Heisenberg uncertainty. Wave functions."
+  title: "Wave functions."
   basename: 08-29-wave_functions
   exercise: "1: Introduction to Google Colab"
   notebook: 01-google_colab
