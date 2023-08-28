@@ -5,12 +5,12 @@
 
 - day: Th
   date: 8/24
-  title: "Postulates. Uncertainty."
+  title: "Postulates."
   basename: 08-24-postulates
 
 - day: Tu
   date: 8/29
-  title: "Wave functions."
+  title: "Uncertainty."
   basename: 08-29-wave_functions
   exercise: "1: Introduction to Google Colab"
   notebook: 01-google_colab

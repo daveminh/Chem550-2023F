@@ -22,7 +22,7 @@ The goals of this course are that you will be able to:
 * Evaluate expectations for given wave functions
 * Express time derivatives of expectation values
 * Use the general uncertainty principle to evaluate limits on the simultaneous specification of a pair of quantities
-* Explain quantum tunneling
+* Explain quantum penetration and tunneling
 * Obtain and interpret solutions of the Schrodinger equation for tractable systems including the particle in a box, harmonic oscillator, rigid rotor, and hydrogen atom
 * Describe how analytical models help interpret various experimental spectra
 * Use perturbation theory to extend the models to more realistic situations
