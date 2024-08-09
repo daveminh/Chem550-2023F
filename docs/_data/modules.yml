@@ -17,13 +17,13 @@
 
 - day: Th
   date: 8/31
-  title: One-dimensional model systems. Tunneling. Vibrational spectroscopy. 
+  title: "One-dimensional model systems. Tunneling. Particle in a Box."
   basename: 08-31-one_dimensional
   due: "Homework 1"
 
 - day: Tu
   date: 9/5
-  title: "Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy."
+  title: "Harmonic oscillator and vibrational spectroscopy. Rotation: Particle on a ring. Angular momentum. Rigid rotor + rotational spectroscopy."
   basename: 09-05-rotation
   due: "Exercise 1"
 
